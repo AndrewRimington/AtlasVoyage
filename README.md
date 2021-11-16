@@ -1,2 +1,2 @@
-# AtlasVoyage
-A game inspired by chrome T-rex game and Asteroids
+# Atlas-Voyage
+A game that is a combination of the Chrome T-Rex game and Asteroids.
